@@ -1,8 +1,0 @@
-#!/usr/bin/env bash
-# kills the process of to_infinite and beyond
-
-# terminae the infinity process
-if[-n "$id"]
-Then
-    kill -15 "$id"
-fi
